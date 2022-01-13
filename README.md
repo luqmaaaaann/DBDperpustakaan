@@ -11,27 +11,17 @@ PROJECT DBD PERPUSTAKAAN 1.6 FULL VERSION 🔥🔥🔥
 
 
 
---------FITURE TOOLS-------
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 FITURE TOOLS 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
-1. Database Perpus
-2. Jcalendar 1.4
-3. Batik Bridge
-4. Batik Dom
-5. Batik svg Dom
-6. Batik Util
-7. Commons beanutils 1.8.2
-8. Commons Collections 3.2.1
-9. Commons Digester 2.1
-10. Commons Javaflow
-11. Commons Logging 1.1
-12. Groovy all 2.0.1
-13. Jasperreports 5.6.0
-14. Json Simple 1.1.1
-15. MySQL Connector Java 5.1.23
-16. Xml Apis
-17. Xml Apis ext 
-18. Rs2xml
-19. IReport 5.6.0 nbm
-20. Jasperreports components plugin 5.6.0 nbm
-21. Jasperreports extensions plugin 5.6.0 nbm
-22. Jasperserver plugin 5.6.0 nbm
+1. Database Perpus                         12. Groovy all 2.0.1
+2. Jcalendar 1.4                           13. Jasperreports 5.6.0
+3. Batik Bridge                            14. Json Simple 1.1.1
+4. Batik Dom                               15. MySQL Connector Java 5.1.23
+5. Batik svg Dom                           16. Xml Apis
+6. Batik Util                              17. Xml Apis ext 
+7. Commons beanutils 1.8.2                 18. Rs2xml
+8. Commons Collections 3.2.1               19. IReport 5.6.0 nbm
+9. Commons Digester 2.1                    20. Jasperreports components plugin 5.6.0 nbm
+10. Commons Javaflow                       21. Jasperreports extensions plugin 5.6.0 nbm
+11. Commons Logging 1.1                    22. Jasperserver plugin 5.6.0 nbm
+
