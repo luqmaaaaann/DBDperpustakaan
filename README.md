@@ -1,6 +1,6 @@
 # DBDperpustakaan
 
-PROJECT DBD PERPUSTAKAAN 1.6 FULL VERSION 🔥🔥🔥
+PROJECT DBD PERPUSTAKAAN 1.6 🔥🔥🔥
 
 --------FITURE DALAM APLIKASI-------
 
